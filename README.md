@@ -27,11 +27,6 @@ Trend Observations: Borrower defaults are concentrated in certain income bracket
 
 Business Impact: Targeted monitoring and intervention could reduce potential default losses by X%.
 
-## 🛠️ Tools & Methodology
-- Power BI – Data cleaning, Data modeling, aggregation, and visualization
-- PowerPoint – Executive storytelling and recommendations
-- Analytical Approach – Segmentation, trend analysis, and key metric monitoring
-
 ## ✅ Recommendations
 - Implement risk-based loan approval criteria.
 - Prioritize additional verification for high-risk segments.
@@ -43,3 +38,8 @@ Business Impact: Targeted monitoring and intervention could reduce potential def
 - Credit Officers – Quickly identify risky applicants and take preemptive actions.
 - Risk Management Teams – Optimize loan portfolio and reduce default losses.
 - Executives – Make data-driven lending policy and approval decisions.
+
+## 🛠️ Tools & Methodology
+- Power BI – Data cleaning, Data modeling, aggregation, and visualization
+- PowerPoint – Executive storytelling and recommendations
+- Analytical Approach – Segmentation, trend analysis, and key metric monitoring
