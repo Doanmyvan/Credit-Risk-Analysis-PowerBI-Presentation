@@ -25,7 +25,7 @@ Top Risk Drivers:
 
 Trend Observations: Borrower defaults are concentrated in certain income brackets and loan types.
 
-Business Impact: Targeted monitoring and intervention could reduce potential default losses by X%.
+Business Impact: Targeted monitoring and intervention could reduce potential default losses by 9%.
 
 ## ✅ Recommendations
 - Implement risk-based loan approval criteria.
