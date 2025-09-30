@@ -1,7 +1,7 @@
 # 💳 Credit Risk Analysis – Loan Default Insights (Power BI & PowerPoint)
 
 ## 📌 Project Overview
-This project analyzes loan default risk among applicants using historical borrower data. By leveraging Power BI for data modeling and visualization, the analysis identifies high-risk borrowers, helping financial institutions make data-driven credit decisions and minimize potential losses.
+This project **analyzes loan default risk** among applicants using 35,000+ loan transaction records to **identifies high-risk borrowers profile**, helping financial institutions make data-driven credit decisions and **minimize potential losses**.
 
 Power BI was used to calculate key metrics and generate interactive dashboards, while findings were presented in PowerPoint for executive storytelling.
 
